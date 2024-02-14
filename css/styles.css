@@ -48,7 +48,7 @@ body {
 .menu-link:focus {
     color: #404bbf;
 }
-.address-link-contact {
+.address-link {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1,50;
@@ -57,11 +57,11 @@ body {
     font-style: normal;
 }
 
-.address-link-contact :focus,
-.address-link-contact :hover {
+.address-item :focus,
+.address-item :hover {
     color: #404bbf; 
 }
-.address-item {
+.address {
     font-style: normal;
 }
 /*----/Header styles----*/
