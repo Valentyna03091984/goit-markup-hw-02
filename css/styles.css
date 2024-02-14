@@ -81,11 +81,11 @@ body {
     line-height: 1,50;
     letter-spacing: 0.04em;
     color: #fff;
-    background-color: #4D5AE5;
+    
 }
 .button :focus,
 .button :hover {
-   background-color: #404BBF;  
+   background-color:  #404BBF;  
 }
 .hero {
     background-color: #2e2f42;
@@ -119,16 +119,14 @@ line-height: 1.5;
 
 }
 .page-portfolio,
-.page-team {
+.page-team-list {
     background-color: #F4F4FD;
 }
 .portfolio-list,
 .page-team-list {
     background-color: #FFFFFF;
 }
-.portfolio-item {
-    width: 360px;
-}
+
 
 /*----/Section styles----*/
 /*----Section footer----*/
