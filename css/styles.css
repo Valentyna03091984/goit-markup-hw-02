@@ -49,7 +49,7 @@ body {
     color: #404bbf;
 }
 .address-link {
-    font-family: "Roboto", sans-serif;
+   
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.02em;
@@ -75,7 +75,7 @@ body {
     color: #fff;
 }
 .button {
-    font-family: "Roboto", sans-serif;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
@@ -85,7 +85,7 @@ body {
 }
 .button :focus,
 .button :hover {
-   background-color: #404BBF;  
+   background-color: #404bbf;  
 }
 .hero {
     background-color: #2e2f42;
@@ -123,7 +123,7 @@ line-height: 1.5;
     background-color: #F4F4FD;
 }
 .portfolio-list,
-.page-team-list {
+.team-list-item {
     background-color: #FFFFFF;
 } 
 .portfolio-list-item {
@@ -143,7 +143,7 @@ line-height: 1.5;
     line-height: 1.17;
 }
 .page-footer-text {
-    font-family: "Roboto", sans-serif;
+    
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #f4f4fd;
