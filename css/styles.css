@@ -39,7 +39,7 @@ body {
    
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,50;
+    line-height: 1.50;
     letter-spacing: 0.02em;
     color: #2e2f42;
     line-height: 1.5;
@@ -51,7 +51,7 @@ body {
 .address-link {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    line-height: 1,50;
+    line-height: 1.50;
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
@@ -69,7 +69,7 @@ body {
 .title {
     
     font-size: 56px;
-    line-height: 1,07;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -78,7 +78,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,50;
+    line-height: 1.50;
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
@@ -125,10 +125,11 @@ line-height: 1.5;
 .portfolio-list,
 .page-team-list {
     background-color: #FFFFFF;
+} 
+.portfolio-list-item {
+    background-color: #404BBF;  
 }
-.imgsize {
-    width: 360px;
-    }
+
 
 /*----/Section styles----*/
 /*----Section footer----*/
